@@ -8,6 +8,23 @@
 
 #import "ViewController.h"
 
+@interface ViewController()
+@end
+
+// TODO:
+// - add menu items for:
+//     source
+//     destination
+//     other?
+// - hook up first responders for menu items
+// - add directory choser (from SortPics)
+// - add preferences for source and destination paths
+// - add imageview
+// - add buttons for > < >> <<
+// - hook up image cycle (from SortPics) and hook up buttons
+// - add key down for > < >> <<
+
+
 @implementation ViewController
 
 - (void)viewDidLoad {
